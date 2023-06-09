@@ -1,4 +1,9 @@
-body {background-color:#F5B041}
+body {background-color: #F5B041;
+      background-image: url(../imagenes/gatito.jpg);
+      background-repeat: no-repeat;
+      background-position: 50% 50%;
+      background-attachment: fixed;
+}
 h1 {font-size:250px}
 h1 {text-align:center}
 h2 {text-align:justify;}
@@ -9,3 +14,11 @@ p {text-align:justify;250px}
 h4 {font-size:50px}
 h4 {text-decoration:underline;}
 h3 {text-decoration:underline;}
+header {background-color: #CD6155;}
+nav {background-color: #AF7AC5;
+     margin: 20px;
+     border: 1px solid; 
+     padding: 5px;
+}
+section {background-color: #58D68D;}
+aside {background-color: #2471A3;}
